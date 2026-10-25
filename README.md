@@ -133,6 +133,8 @@ I collaborate with businesses, startups, and digital agencies that need hands-on
 
 Whether you need to automate a workflow, integrate disconnected systems, develop a SaaS product, or extend your existing development capacity, I can help turn technical requirements into working software.
 
+**My e-mail:**  cristianobarbosa.sba@gmail.com
+
 **Open to:**
 - Freelance software development projects
 - AI automation and integration contracts
